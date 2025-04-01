@@ -39,9 +39,10 @@ The goal of this project is to visualize patterns in Airbnb listings across New 
 - Visualizations: bar, pie, map, scatterplot, KPI cards  
 
 ## 📸 Preview
-
-> *(Consider uploading a screenshot here: `images/nyc_airbnb_dashboard.png`)*  
-> *(Or embed a PDF export link if hosted on GitHub)*
+- Page 1
+> (https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page1.png)
+- Page 2
+> (https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page1.png)
 
 ## 📂 File
 
