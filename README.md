@@ -46,16 +46,6 @@ The goal of this project is to visualize patterns in Airbnb listings across New 
 ### Page 2  
 ![Page 2](https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page2.png)
 
-## 📂 File
-
-- `theproject.pbix` – Power BI dashboard file  
-- *(Optional)*: Add a link to download the `.pbix` from your repository
-
-## ✅ My Role
-
-This project was developed end-to-end by me — from data loading and transformation to modeling, visual design, and insight generation.
-
 ---
-
 If you're viewing this from my portfolio, you can also check out the complementary [SQL Project for NYC_AirBnB](link-to-sql-readme) for a deeper look at how the data was explored before visualizing it here.
 
