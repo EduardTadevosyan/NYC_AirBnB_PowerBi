@@ -39,10 +39,12 @@ The goal of this project is to visualize patterns in Airbnb listings across New 
 - Visualizations: bar, pie, map, scatterplot, KPI cards  
 
 ## 📸 Preview
-- Page 1
-> (https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page1.png)
-- Page 2
-> (https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page1.png)
+
+### Page 1  
+![Page 1](https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page1.png)
+
+### Page 2  
+![Page 2](https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page2.png)
 
 ## 📂 File
 
@@ -56,3 +58,4 @@ This project was developed end-to-end by me — from data loading and transforma
 ---
 
 If you're viewing this from my portfolio, you can also check out the complementary [SQL Project for NYC_AirBnB](link-to-sql-readme) for a deeper look at how the data was explored before visualizing it here.
+
