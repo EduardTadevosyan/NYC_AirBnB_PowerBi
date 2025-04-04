@@ -47,5 +47,5 @@ The goal of this project is to visualize patterns in Airbnb listings across New 
 ![Page 2](https://github.com/EduardTadevosyan/NYC_AirBnB_PowerBi/blob/main/Images/page2.png)
 
 ---
-If you're viewing this from my portfolio, you can also check out the complementary [SQL Project for NYC_AirBnB](link-to-sql-readme) for a deeper look at how the data was explored before visualizing it here.
+If you're viewing this from my portfolio, you can also check out the complementary [SQL Project for NYC_AirBnB](https://github.com/EduardTadevosyan/NYC_AirBnB_SQL) for a deeper look at how the data was explored before visualizing it here.
 
